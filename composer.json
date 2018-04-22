@@ -1,0 +1,14 @@
+{
+    "name": "ty8123/demo",
+    "description": "demo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tianye",
+            "email": "tian.ye@immomo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
